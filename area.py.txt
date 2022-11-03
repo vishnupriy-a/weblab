@@ -1,0 +1,6 @@
+pi=3.14;
+r=int(input("enter the radius of a circle"));
+area=pi*(r*r);
+perir=2*pi*r;
+print("Area=",area);
+print("perimeter="peri);
