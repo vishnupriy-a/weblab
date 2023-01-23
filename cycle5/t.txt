@@ -1,0 +1,4 @@
+
+This article was published as a part of the Data Science Blogathon
+
+A file is an essential data item stored in one’s computer. Each file can be characterized with its filename & file extension. Python programming language is capable of doing wonders and with time we see a lot of its applications in various domains. One of its wonders handling and organization of files which would save a lot of time for us.
